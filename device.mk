@@ -27,3 +27,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/camera/s5k4h8_sunny_v12bnlite_chromatix.xml:system/etc/camera/s5k4h8_sunny_v12bnlite_chromatix.xml \
     $(LOCAL_PATH)/configs/camera/ov13855_ofilm_v12bnlite_chromatix.xml:system/etc/camera/ov13855_ofilm_v12bnlite_chromatix.xml \
     $(LOCAL_PATH)/configs/camera/s5k3p3st_sunny_v12bnlite_chromatix.xml:system/etc/camera/s5k3p3st_sunny_v12bnlite_chromatix.xml
+
+# Media
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
+    $(LOCAL_PATH)/configs/media_profiles.xml:system/etc/media_profiles.xml

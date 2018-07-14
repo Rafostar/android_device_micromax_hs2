@@ -18,6 +18,9 @@
 
 DEVICE_PATH := device/micromax/hs2
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := hs2
+
 # Kernel
 TARGET_KERNEL_CONFIG := hs2-perf_defconfig
 

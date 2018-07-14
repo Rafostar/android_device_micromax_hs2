@@ -19,7 +19,7 @@ set -e
 
 # Required!
 export DEVICE=micromax
-export VENDOR=hs2
+export VENDOR_DEVICE=hs2
 export DEVICE_COMMON=msm8937-common
 export VENDOR_COMMON=tinno
 

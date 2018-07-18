@@ -254,11 +254,11 @@ vendor/lib/libmmcamera_s5k4h8_sunny_v12bnlite_eeprom.so
 
 # Fingerprint
 bin/fpsvcd_ca_qsee
-lib64/hw/fingerprint.elan.default.so:lib64/hw/fingerprint.elan.so
-lib64/hw/fingerprint.silead.default.so:lib64/hw/fingerprint.silead.so
+lib64/hw/fingerprint.elan.default.so
+lib64/hw/fingerprint.silead.default.so
 lib64/libfpfslockd_remoteapi.a
 lib64/libfpsvcd_remoteapi.a
-lib/hw/fingerprint.silead.default.so:lib/hw/fingerprint.silead.so
+lib/hw/fingerprint.silead.default.so
 lib/libfpfslockd_remoteapi.a
 lib/libfpsvcd_remoteapi.a
 
